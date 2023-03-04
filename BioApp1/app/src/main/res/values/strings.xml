@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BioApp</string>
+    <string name="akash_jare">Akash Jare</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="android">Android</string>
+    <string name="Info_text">\tI have always been passionate about entrepreneurship, starting my first business at the young age of 12. This early experience sparked my interest in starting and running my own business and has led me to pursue opportunities to learn and grow in this field. Currently, I am pursuing a Bachelors degree in Information Technology, which has provided me with a strong foundation in both the technical and business aspects of entrepreneurship. My skills includes problem-solving, marketing, communication, and management.\n\n
+        I am eager to apply my skills and knowledge in a real-world setting and am always looking for opportunities to connect with other entrepreneurs and learn from their experiences. I have taken advantage of various opportunities such as attending workshops, networking events, and actively participating in entrepreneurship clubs and societies of my college. These experiences have taught me the importance of networking, marketing, and effective communication in building a successful business.\n\n\t
+        In addition, I am open to internships or co-op opportunities that align with my interests and can help me develop my skills further. I believe that with my passion for entrepreneurship, my academic background, and my early business experience, I have the foundation to become a successful entrepreneur. I am determined to turn my passion into a successful career and I am confident that with my skills, knowledge, and drive, I can make a meaningful contribution to the entrepreneurial community.\n\n\t
+        I am highly motivated and results-driven, and I am constantly seeking new challenges and opportunities to expand my knowledge and skills. I am excited to connect with others in my field and explore new opportunities. I am confident that with my passion for entrepreneurship, my academic background and my early business experience, I have the foundation to become a successful entrepreneur.</string>
+    <string name="done">Done</string>
+    <string name="enter_your_hobbies">Enter Your Hobbies</string>
+    <string name="enter_your_hobbies_first">Enter your hobbies first</string>
+</resources>

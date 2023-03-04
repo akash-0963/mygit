@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Trivia App</string>
+    <string name="que_goes_here">Question Goes Here</string>
+    <string name="next">NEXT</string>
+    <string name="FalseButton">FALSE</string>
+    <string name="TrueButton">TRUE</string>
+    <string name="appname">Experimental Quiz 01</string>
+    <string name="Question_45_90">Question 45/90</string>
+    <string name="previous">Previous</string>
+    <string name="text_formatted">Question: %d/%d</string>
+    <string name="correct_answer">Your answer is Correct !!</string>
+    <string name="incorrect_answer">Incorrect Answer, Please Try Again</string>
+</resources>

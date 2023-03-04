@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RD</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_occupation">Enter Occupation</string>
+    <string name="save">SAVE</string>
+    <string name="empty">Fields should not be empty</string>
+    <string name="add">ADD</string>
+    <string name="textview">TextView</string>
+</resources>

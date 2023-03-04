@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MakeItRain</string>
+    <string name="your_amount">Your Amount</string>
+    <string name="makeitrain">MakeItRain</string>
+    <string name="enter_your_amount">Enter Your Amount</string>
+</resources>

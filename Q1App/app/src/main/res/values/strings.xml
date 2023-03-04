@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Q1App</string>
+    <string name="question_goes_here">Question goes here</string>
+    <string name="que_image">que_image</string>
+    <string name="ans_true">True</string>
+    <string name="ans_false">False</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="Q1">My name is Akash</string>
+    <string name="Q2">I am not Akash</string>
+    <string name="Q3">I live in Supa</string>
+    <string name="Q4">I do not live in supa</string>
+    <string name="Q5">I am doing Btech</string>
+    <string name="Q6">I am not doing Btech</string>
+    <string name="Q7">Currently I live in pune</string>
+    <string name="Q8">Currently I live in Supa</string>
+
+    <string name="correct">Answer Is Correct</string>
+    <string name="incorrect">Answer Is Incorrect</string>
+    <string name="submit">Submit</string>
+    <string name="retry">RETRY</string>
+
+</resources>

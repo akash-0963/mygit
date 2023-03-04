@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTodoApp</string>
+    <string name="db_drop">"DROP TABLE IF EXITS"</string>
+    <string name="todo_list">ToDo List</string>
+    <string name="my_todo_app">My ToDo App</string>
+    <string name="this_is_task_1">This is Task 1</string>
+</resources>
